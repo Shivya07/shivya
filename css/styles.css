@@ -5,7 +5,8 @@
 }
 
 body{
-	background-image: url("../assets/img/website-background.jpg");
+	//background-image: url("../assets/img/website-background.jpg");
+	background-color: purple;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	background-position: center;
